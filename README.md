@@ -42,6 +42,7 @@ Examples:
 * Registration Page
 ![img](https://github.com/Malateshgouda813/SmartSpend/blob/3ea6b2713c071c204abfec7ce558188be452d4a9/register.png)
 * Dashboard
+![img](https://github.com/Malateshgouda813/SmartSpend/blob/117de160b4e2cd3e77fd6d941db967ab66ff89fc/dashboard.png)
 * Budget Management
 * Expense Analytics
 * Expense Management
