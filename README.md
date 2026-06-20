@@ -4,6 +4,9 @@
 
 SmartSpend is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that helps users manage their personal finances efficiently.
 
+The project combines authentication, expense tracking, budget management, analytics, and reporting features into a single platform. It highlights practical full-stack development skills and provides a strong foundation for future enhancements such as AI-powered financial insights, PDF reporting, and cloud deployment.
+
+This project reflects real-world software development practices including secure authentication, RESTful API design, database management, data visualization, and version control using Git and GitHub.
 Users can:
 
 * Register and login securely
@@ -31,11 +34,8 @@ The application uses JWT Authentication to ensure that each user can access only
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
-Add screenshots here after deployment.
-
-Examples:
 
 * Login Page
 ![img](https://github.com/Malateshgouda813/SmartSpend/blob/1920ca0ad2654335ad46d38bd8d60ec124cf5401/login.png)
