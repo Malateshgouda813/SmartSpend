@@ -38,6 +38,7 @@ Add screenshots here after deployment.
 Examples:
 
 * Login Page
+[!img](https://github.com/Malateshgouda813/SmartSpend/blob/1920ca0ad2654335ad46d38bd8d60ec124cf5401/login.png)
 * Registration Page
 * Dashboard
 * Budget Management
