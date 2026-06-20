@@ -43,8 +43,10 @@ Examples:
 ![img](https://github.com/Malateshgouda813/SmartSpend/blob/3ea6b2713c071c204abfec7ce558188be452d4a9/register.png)
 * Dashboard
 ![img](https://github.com/Malateshgouda813/SmartSpend/blob/117de160b4e2cd3e77fd6d941db967ab66ff89fc/dashboard.png)
-* Budget Management * Expense Analytics 
+* Budget Management  and Expense Analytics 
 ![img](https://github.com/Malateshgouda813/SmartSpend/blob/6399e522740a8d8b64b238169a54e9637e6bae49/expense-list.png)
+*Data Base
+![img](https://github.com/Malateshgouda813/SmartSpend/blob/b98a73159d75f5039c936fee491e964766f05b0a/database.png)
 
 
 ---
